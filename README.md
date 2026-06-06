@@ -2,7 +2,7 @@
 # (日本語:高性能タイマープラグイン)
 ## 製作
 製作:ゆっくりぴっと
-https://x.com/zgCs37M1za35737
+https://x.com/yukkuri_pit
 ## 概要
 YMM4用のタップでBPMを測定するプラグインです。
 
