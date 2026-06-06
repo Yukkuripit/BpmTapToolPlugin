@@ -1,5 +1,5 @@
-# HighPerformanceTimerToolPlugin v1.0.3
-# (日本語:高性能タイマープラグイン)
+# BpmTapToolPlugin v1.0.3
+# (日本語:BPM測定プラグイン)
 ## 製作
 製作:ゆっくりぴっと
 https://x.com/yukkuri_pit
